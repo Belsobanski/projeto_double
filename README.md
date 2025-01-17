@@ -13,7 +13,8 @@ A motivação para este trabalho foi explorar o dinamismo dos dados e aplicar co
 ## 🛠️ **Tecnologias Utilizadas**  
 - **Python**: Linguagem principal para desenvolvimento do projeto.  
 - **Selenium**: Automação de coleta de dados diretamente do site.  
-- **MySQL**: Armazenamento estruturado dos dados coletados.  
+- **MySQL**: Armazenamento estruturado dos dados coletados.
+- **CSV**: Armazenamento estruturado dos dados coletados.  
 - **Logging**: Monitoramento e rastreamento dos processos em execução.  
 
 ---
