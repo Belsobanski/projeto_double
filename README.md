@@ -1,5 +1,3 @@
-# Projeto_double
-Projeto de Coleta e Análise de Dados Dinâmicos
 # 🔍 **Projeto de Coleta e Análise de Dados Dinâmicos**
 
 ## 📚 **Descrição**  
